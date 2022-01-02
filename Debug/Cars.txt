@@ -1,0 +1,21 @@
+
+honda	coupe	500000		2500			rwd	11
+bmw	coupe	100000		1500			rwd	25
+opel	sedan	67800		3000			rwd	12
+dodge	SUV	60000		5000			awd	3
+Toyota	SUV	60000		5000			awd	13
+audi	coupe	56700		2000			awd	4
+Ford	coupe	56700		2000			awd	14
+bmw	coupe	50000		2500			rwd	5
+lexus	coupe	50000		3000			rwd	6
+Chevi	coupe	50000		2500			rwd	15
+lexus	coupe	50000		3000			rwd	16
+audi	sedan	45000		2500			fwd	7
+audi	sedan	45000		2500			fwd	17
+audi	sedan	40000		3000			awd	21
+audi	coupe	30000		2000			awd	10
+audi	coupe	30000		2000			awd	20
+dodge	coupe	13000		5000			rwd	8
+dodge	coupe	13000		5000			rwd	18
+bmw	wagon	12000		2000			rwd	9
+bmw	wagon	12000		2000			rwd	19

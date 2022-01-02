@@ -1,0 +1,1 @@
+ausi	sedan	67800	5000	all	2bmw	sedan	67800	3000	r	62	2	2	2	2	2audi	sedan	35000	2000	all	2audi	sedan	45000	2500	f	5

@@ -1,0 +1,8 @@
+bmw	coupe	500000	2500	r	5	alexandr
+bmw	coupe	500000		2500			r	5	sasha2
+bmw	coupe	500000		2500			r	5	sasha2
+bmw	coupe	50000		2500			r	1	sasha281101
+audi	sedan	35000		2000			awd	2	sasha281101
+audi	sedan	40000		3000			awd	11	sasha281101
+bmw	coupe	500000		2500			rwd	1	sasha281101
+bmw	sedan	67800		3000			rwd	2	sasha281101

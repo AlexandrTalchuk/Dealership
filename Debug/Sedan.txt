@@ -1,0 +1,1 @@
+bmw	wagon	4000	2000	r	1bmw	wagon	12000	2000	r	4
